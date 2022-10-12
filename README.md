@@ -33,9 +33,9 @@
 
 Location: Your choice
 
-Username: `azureuser`
+Username: ```console  azureuser```
 
-Password: `WindowsPassword@001`
+Password: ```console  WindowsPassword@001```
 
 
 ![image](https://user-images.githubusercontent.com/58414694/148490063-3657aeb5-541f-4e27-88a2-735ad990df0e.png)
