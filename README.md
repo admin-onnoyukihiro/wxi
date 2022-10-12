@@ -27,10 +27,6 @@
     ```
 
 
-
-
-Location: Your choice
-
 - * Username:
 ```console
 azureuser
