@@ -33,11 +33,13 @@
 
 Location: Your choice
 
-Username: ```console
+- * Username:
+```console
 azureuser
 ```
 
-Password: ```console
+- * Password:
+```console
 WindowsPassword@001
 ```
 
