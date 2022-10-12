@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=16D400&size=25&width=770&lines=./onnoyukihiro)](https://git.io/typing-svg)
 ###
 - *Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
-- *Click on Activate Sandbox
+- *https://labs.azure.com/register/oowlp4z1
 - *Paste this into Cloud Shell :
 
 -   ```console  
